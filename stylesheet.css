@@ -1,0 +1,71 @@
+header {
+  position: absolute;
+  margin-left: 31em;
+  margin-right: 20em;
+  width: 100%;
+
+}
+
+.account {
+  position: absolute;
+  margin-left: 5em;
+
+}
+
+
+
+
+#topbanner {
+    display: inline;
+    padding: 7px 5px;
+    height: 30px;
+    width: 100%;
+    text-align: center;
+    background-color: #24aa67;
+    border-style: solid;
+    border-width: 1px;
+
+
+}
+
+
+.welcometoZingo {
+    position: absolute;
+    top: 200px;
+    left: 375px;
+
+
+}
+
+.researchbar {
+  border-style: solid;
+  position: absolute;
+  top: 350px;
+  left: 380px;
+
+}
+
+body {
+  background-color: #197648;
+}
+
+h1 {
+  font-family: monospace;
+  font-size: 60px;
+}
+
+.gobutton {
+  border: solid;
+  position: absolute;
+  top: 350px;
+  left: 865px;
+}
+
+p {
+    position: absolute;
+    top: 420px;
+    left: 565px;
+    color: white;
+    font-style: italic;
+
+}
